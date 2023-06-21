@@ -1,5 +1,5 @@
 # 👋 Привет я Антон!
-
+---
 ### 👉 Обо мне:
 
 Начинающий разработчик. Учу языки самостоятельно. Имею 1 законченный проект. Начал изучать Python, понравилось писать код и в скором времени приступил к изучению C++. Хочу стать разработчиком игр. Я более менее разбираюсь в GitHub.
@@ -8,9 +8,7 @@
 - Мало пишу на Java
 - В данный момент учу С#
 - Умею разрабатывать Desktop-приложения на Python
-
 ---
-
 ### 💻 Языки програмиирования:
 
 <div>
@@ -42,10 +40,12 @@
       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WaysoonProgramms&theme=transparent" >
     </td>
     <td>
-      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaysoonProgramms&theme=transparent" >
-    </td>
-    <td>
       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WaysoonProgramms&theme=transparent&utcOffset=+3.00" >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaysoonProgramms&theme=transparent" >
     </td>
   </tr>
 </table>
