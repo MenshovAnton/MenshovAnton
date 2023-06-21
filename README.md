@@ -43,11 +43,12 @@
       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WaysoonProgramms&theme=transparent&utcOffset=+3.00" >
     </td>
   </tr>
+  <table>
   <tr>
     <td>
       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaysoonProgramms&theme=transparent" >
     </td>
   </tr>
-</table>
+  </table>
 
 <img height="25" src="https://img.shields.io/github/watchers/WaysoonProgramms/WaysoonProgramms?logo=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2&style=for-the-badge"/>
