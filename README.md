@@ -1,43 +1,21 @@
-# [RUS] Привет я Антон!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <img src="https://wakatime.com/badge/user/62277cec-b176-4b72-9cd9-104664eb4a03.svg" alt="WakaTime Badge"/>
+    <img src="https://www.codewars.com/users/Waysoon_/badges/micro" alt="CodeWars Badge"/>
+    <h1>Об мне</h1>
+  </div>
+</div>
+<p><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right">
+  Я начинающий разработчик. Учу языки самостоятельно. Начал изучать Python, понравилось писать код и в скором времени приступил к изучению C#.
+  Разробатываю маленькие полезные и не очень программы для Windows и Android. Умею делать простые модели в Blender. Учусь на специалиста по кибер-безопасности.
+  На данный момент умею работать с Python, С#, Java. Умею работать в Linux. Поверхностно проходил по HTML и C++. Совсем недавно зарегистрировался на CodeWars.
+  Пока медлонно как-то набираю kyu. Также использую WakaTime для подсчета кол-ва часов проведенных за кодингом, но это не точное значение так как я не сразу 
+  узнал про него и не всегда вспоминаю про него когда ставлю новую IDE.</p>
 
-Я начинающий разработчик. Учу языки самостоятельно. Начал изучать Python, понравилось писать код и в скором времени приступил к изучению C#. Учусь на пентестера. Я более менее разбираюсь в GitHub.
-Пишу в программах Visual Studio 2022, VS Code, PyCharm. Разробатываю маленькие полезные и не очень программы для Windows. Умею делать простые модели в Blender
-
-- Мало пишу на Java
-- Умею разрабатывать Desktop-приложения на .NET и Python
-- Работаю с .Net
-- В основном пользуюсь Windows 10 (Вторая система Fedora Linux)
-- Разбираюсь в Linux
-
-Моя статистика в WakaTime (Я довольно недавно узнал про этот замечательный сервис):
-
-<img src="https://wakatime.com/badge/user/62277cec-b176-4b72-9cd9-104664eb4a03.svg">
-
-
-Я на CodeWars (Сижу не часто):
-
-<img src="https://www.codewars.com/users/Waysoon_/badges/small" >
-
-На данный момент пишу голосового ассистента Лео. Изучаю пентестинг, защиту и правильность кода. Умею работать с Python, C#, Java, C++. Разбираюсь в Linux.
-
-# [ENG] Hi, I'm Anton!
-
-I'm a beginner developer. I learn languages on my own. I started learning Python, liked writing code, and soon started learning C#. I'm studying to be a pentester. I'm more or less knowledgeable about GitHub.
-I write in Visual Studio 2022, VS Code, PyCharm. I develop small useful and not so useful programs for Windows. I can make simple models in Blender
-
-- I don’t write much in Java
-- I can develop Desktop applications in .NET and Python
-- I work with .Net
-- I mainly use Windows 10 (Second Fedora Linux system)
-- I understand Linux
-
-My statistics in WakaTime (I recently learned about this wonderful service):
-
-<img src="https://wakatime.com/badge/user/62277cec-b176-4b72-9cd9-104664eb4a03.svg">
-
-
-I'm on CodeWars (I don't use it often):
-
-<img src="https://www.codewars.com/users/Waysoon_/badges/small" >
-
-At the moment I am writing a voice assistant for Leo. I study pentesting, protection and code correctness. I can work with Python, C#, Java, C++. I understand Linux.
+<div id="badges2" align="center">
+    <h1>Статистика</h1>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaysoonProgramms&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WaysoonProgramms&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WaysoonProgramms&theme=github_dark&exclude=markdown"/>
+</div>
