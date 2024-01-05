@@ -13,6 +13,9 @@
 Пока медлонно как-то набираю kyu. Также использую WakaTime для подсчета кол-ва часов проведенных за кодингом, но это не точное значение так как я не сразу 
 узнал про него и не всегда вспоминаю про него когда ставлю новую IDE. Завершил курсы от СИНЕРГИЯ по направлению Java.
 
+<a href="https://t.me/waysoon_official">Telegram канал</a><br>
+<a href="https://www.donationalerts.com/r/waysoon">Поддержать меня</a>
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
