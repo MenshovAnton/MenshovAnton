@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V0a3cxZG56OGQ3ZzdnejFpc2s1ZWVlb29hNGxicWNnbTF2eGk4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" width="100"/>
   <div id="badges">
     <img src="https://wakatime.com/badge/user/62277cec-b176-4b72-9cd9-104664eb4a03.svg" alt="WakaTime Badge"/>
     <img src="https://www.codewars.com/users/Waysoon_/badges/micro" alt="CodeWars Badge"/>
