@@ -19,5 +19,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MenshovAnton&theme=github_dark&exclude=markdown"/>
 </div>
 
-<h1>На чай</h1>
 <a href="https://www.donationalerts.com/r/waysoon"><img alt="Static Badge" src="https://img.shields.io/badge/DonationAlerts-Waysoon-red?style=for-the-badge"></a>
